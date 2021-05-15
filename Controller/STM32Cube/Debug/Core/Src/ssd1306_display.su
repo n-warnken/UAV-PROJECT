@@ -1,0 +1,7 @@
+ssd1306_display.c:11:6:display_template	16	static
+ssd1306_display.c:29:6:update_left_rect	4	static
+ssd1306_display.c:32:6:update_right_rect	4	static
+ssd1306_display.c:35:6:update_left_joystick	4	static
+ssd1306_display.c:38:6:update_right_joystick	4	static
+ssd1306_display.c:41:6:update_left_button	4	static
+ssd1306_display.c:44:6:update_right_button	4	static

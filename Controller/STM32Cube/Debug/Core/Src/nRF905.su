@@ -1,0 +1,13 @@
+nRF905.c:40:6:nRF905_Init	8	static
+nRF905.c:49:6:nRF905_WriteConfig	16	static
+nRF905.c:63:6:nRF905_WriteConfigFreq	16	static
+nRF905.c:80:6:nRF905_ReadConfig	16	static
+nRF905.c:95:6:nRF905_RX	16	static
+nRF905.c:104:6:nRF905_RXAddress	16	static
+nRF905.c:126:6:nRF905_TXAddress	16	static
+nRF905.c:134:6:nRF905_TX	16	static
+nRF905.c:142:6:TxPacket	16	static
+nRF905.c:172:6:set_tx	8	static
+nRF905.c:180:6:set_rx	8	static
+nRF905.c:188:14:check_ready	8	static
+nRF905.c:198:6:RxPacket	16	static
